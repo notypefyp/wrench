@@ -3,10 +3,5 @@
         "id": 1,
         "name": "wrenchWhois.py",
         "url": "http://notype.ru/wrench/repo/wrenchWhois.py"
-    },
-    {
-        "id": 2,
-        "name": "another_script.sh",
-        "url": "https://example.com/path/to/another_script.sh"
     }
 ]
